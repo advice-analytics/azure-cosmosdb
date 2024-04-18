@@ -1,5 +1,5 @@
 {
-  "name": "azurecosmosdb-vercel-starter",
+  "name": "admin-commsai",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,7 @@
     "bad-words": "^3.0.4",
     "date-fns": "^2.29.3",
     "dotenv": "^16.1.4",
+    "formidable": "^3.5.1",
     "framer-motion": "^10.12.16",
     "gray-matter": "^4.0.3",
     "next": "latest",
@@ -25,5 +26,10 @@
     "remark": "^14.0.2",
     "remark-html": "^15.0.1",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/react": "18.2.79",
+    "typescript": "5.4.5"
   }
 }
